@@ -1,0 +1,14 @@
+torch==1.11.0+cu113
+torchvision==0.12.0+cu113
+pip==21.0.1 
+numpy==1.23.0 
+lmdb==1.0.0 
+h5py==2.10.0 
+matplotlib==3.3.4 
+opencv-python==4.5.5.64 
+Pillow==8.2.0 
+tensorboard==2.9.0 
+protobuf==3.20.0 
+scikit-image==0.18.0 
+scikit-learn==0.24.1 
+einops==0.4.1
