@@ -207,11 +207,11 @@ def main(args):
         
         #Adjust learning rate
         decoder_lr_scheduler.step()
-        print(decoder_optimizer.param_groups[0]['lr'])
+        #print(decoder_optimizer.param_groups[0]['lr'])
         encoder_trans_lr_scheduler.step()
         if encoder_lr_scheduler is not None:
             encoder_lr_scheduler.step()
-            print(encoder_optimizer.param_groups[0]['lr'])
+            #print(encoder_optimizer.param_groups[0]['lr'])
         # Check if there was an improvement        
         if  Bleu_4 > best_bleu4:
             best_bleu4 = max(Bleu_4, best_bleu4)
