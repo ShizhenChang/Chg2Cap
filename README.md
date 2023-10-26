@@ -83,4 +83,4 @@ Please cite the following paper if you find it useful for your research:
 The authors would like to thank the contributors to the [LEVIR-CC](https://github.com/Chen-Yang-Liu/RSICC/tree/main) and [Dubai-CC](https://disi.unitn.it/~melgani/datasets.html) datasets.
 
 ### License
-This repo is distributed under [MIT License](https://github.com/ShizhenChang/Chg2Cap/LICENSE.txt). The code can be used for academic purposes only.
+This repo is distributed under [MIT License](https://github.com/ShizhenChang/Chg2Cap/blob/main/LICENSE.txt). The code can be used for academic purposes only.
